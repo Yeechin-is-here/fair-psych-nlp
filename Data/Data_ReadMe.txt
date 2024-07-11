@@ -34,7 +34,7 @@ TWB_7				Please indicate your agreement or disagreement with each of the followi
 TWB_8				Please indicate your agreement or disagreement with each of the following statements using the scale below: - My life is going well.
 TWB_9				Please indicate your agreement or disagreement with each of the following statements using the scale below: - I feel good most of the time.
 TWB_10				Please indicate your agreement or disagreement with each of the following statements using the scale below: - I will succeed if I put my mind to it.
-RA1_1				For each of the following statements, please indicate the likelihood of engaging in each activity. Provide a rating from 1 to 5, using the following scale: - Eating ˜expired food products that still look okay.
+RA1_1				For each of the following statements, please indicate the likelihood of engaging in each activity. Provide a rating from 1 to 5, using the following scale: - Eating ï¿½expired food products that still look okay.
 RA1_2				For each of the following statements, please indicate the likelihood of engaging in each activity. Provide a rating from 1 to 5, using the following scale: - Frequent binge drinking.
 RA1_3				For each of the following statements, please indicate the likelihood of engaging in each activity. Provide a rating from 1 to 5, using the following scale: - Ignoring some persistent physical pain by not going to the doctor.
 RA1_4				For each of the following statements, please indicate the likelihood of engaging in each activity. Provide a rating from 1 to 5, using the following scale: - Taking a medical drug that has a high likelihood of negative side effects.
@@ -111,7 +111,7 @@ MN5				James starts a new blood pressure medicine. The chance of a serious side 
 MN6				The PSA (prostate specific antigen) is a blood test that looks for prostate cancer. The test has false alarms so about 30% of men who have an abnormal test turn out not to have prostate cancer. John has an abnormal test result. What is the chance that John has prostate cancer?
 MN7				A study found that a new diabetes medicine led to control of blood sugar in 8% more patients than the old medicine. This difference was statistically significant (p=.05). The likelihood that this finding was due to chance alone is best described as less than:
 MN8				A nutrition label is shown below. How many calories did Mary eat if she had 2 cups of food?
-GHNT1				Call your doctor if you have a temperature of 100.4ºF or greater. The thermometer looks like the following: Do you call the doctor?
+GHNT1				Call your doctor if you have a temperature of 100.4ï¿½F or greater. The thermometer looks like the following: Do you call the doctor?
 GHNT2				If 4 people out of 20 have a chance of getting a cold, what would be the risk of getting a cold?
 GHNT3				Suppose that the maximum heart rate for a 60 year old woman is 160 beats per minute and that she is told to exercise at 80% of her maximum heart rate. What is 80% of that woman's maximum heart rate? Please fill in the number of beats per minute:
 GHNT4				You ate half the container of carrots. How many grams of carbohydrates did you eat? (Please see the nutrition label below).
@@ -129,6 +129,9 @@ D5				Income: Less than $20,000 (1); $20,000 - $34,999 (2); $35,000 - $54,999 (3
 D6				Is English your first language?
 Dmed_7				What is your height (in feet and inches)?
 Dmed_8				How much do you currently weigh (in pounds)?
+
+
+
 DMed_1				Approximately how many different prescription drugs are you currently taking on a regular basis?
 DMed_2				Do you have a primary care physician?
 DMed_3				In the past two years (24 months), how many times have you been to a primary care physician?
